@@ -1,0 +1,53 @@
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.x
+- Required libraries: `Pillow`, `numpy`
+
+You can install dependencies using:
+
+```bash
+pip install Pillow numpy
+Running the Script
+Clone the repository or download the script.
+
+Open a terminal and run:
+
+bash
+Copy
+Edit
+python image_encryption.py
+Enter the path to your input image when prompted.
+
+Example:
+
+arduino
+Copy
+Edit
+Enter the path to the image file: C:\Users\YourName\Pictures\image.png
+📸 Example
+Original → Encrypted → Decrypted
+
+You should see:
+
+encrypted_image.png (randomly scrambled version)
+
+decrypted_image.png (restored original)
+
+⚠️ Notes
+This is a demonstration of a simple encryption mechanism and not suitable for secure cryptographic use in real-world applications.
+
+Ensure the same key is used for both encryption and decryption.
+
+🧑‍💻 Author
+Internship Task 2 completed for Prodigy Infotech
+
+Developed by: [Your Name]
+
+📃 License
+This project is open source and free to use under the MIT License.
+
+python
+Copy
+Edit
